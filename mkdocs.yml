@@ -1,5 +1,5 @@
-site_name: My Docs
-site_name: My Project
+site_name: Trezor.io/start
+site_name: Trezor.io/Start® - Starting Up Your Device®
 
 nav:
   - Home: index.md
